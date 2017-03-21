@@ -1,0 +1,7 @@
+Title:  Bag of Words Data Set
+Source:
+
+David Newman
+newman '@' uci.edu
+University of California, Irvine
+
